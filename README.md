@@ -1,1 +1,1 @@
-# Wireless-Penetration-Tester-notes-praticals
+# Wireless-Penetration-Tester-notes-practical
